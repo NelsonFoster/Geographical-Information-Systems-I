@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Center for International Earth Science Information Network (CIESIN), Columbia University</origin>
+				<pubdate>2005</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<othercit>
+We recommend the following for citing the database:
+Center for International Earth Science Information Network (CIESIN),
+Columbia University, 2005. Small Area Estimates of Poverty and Inequality (SAEPI) database. Palisades, NY: CIESIN, Columbia University. Available at
+http://www.ciesin.columbia.edu/povmap. 
+[We recommend that you include the original source data, country, input census year, version number ( Version 1.0), and the date of your download here.]
+</othercit>
+				<onlink>http://www.ciesin.columbia.edu/povmap/</onlink>
+				<title Sync="TRUE">MWILv3</title><ftname Sync="TRUE">MWILv3</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>The Small Area Estimates of Poverty and Inequality dataset consists of spatially referenced consumption-based measures of poverty and inequality for subnational administrative areas of various countries throughout Africa, Asia, Europe, North America and South America. These measures are derived, on a country-level basis, from a combination of census and survey data using small area estimation techniques developed for poverty mapping. The collection of data sets have been compiled, integrated and standardized from the original data providers into a unified, spatially referenced and globally consistent dataset. The data products include shapefiles (vector data), tabular datasets (in comma seperated values format) and centroids (comma seperated values file with latitude and longitude of a geographic unit and associated poverty estimates). Additionally, a data catalog (in Excel format) contains detailed information and documentation on each data set in the collection. The collection is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with a number of external data providers.</abstract>
+			<purpose>To provide highly resolved subnational estimates of poverty and inequality for use by a wide user community for interdisciplinary studies of poverty, inequality and the environment.</purpose>
+			<supplinf>This is the first version (Version 1.0) of the Small Area Estimates data set. If you discover any errors or have any comments regarding the dataset please contact ciesin.info@ciesin.columbia.edu</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1998</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>The nominal year of reference for the poverty estimate, based on the input Census year.</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">32.673950</westbc>
+				<eastbc Sync="TRUE">35.916820</eastbc>
+				<northbc Sync="TRUE">-9.367540</northbc>
+				<southbc Sync="TRUE">-17.125000</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">32.673950</leftbc><rightbc Sync="TRUE">35.916820</rightbc><bottombc Sync="TRUE">-17.125000</bottombc><topbc Sync="TRUE">-9.367540</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>CIESIN Indexing Vocabulary Version 2.1 (GCMD Format).</themekt>
+				<themekey>CIESIN &gt; Human Attitudes, Preferences, and Behavior &gt; Consumer Behavior &gt; Poverty</themekey>
+			</theme>
+		</keywords>
+		<accconst>CIESIN offers unrestricted access and use of data without charge, unless specified in the documentation for particular data. All other rights are reserved.</accconst>
+		<useconst>The Trustees of Columbia University in the City of New York hold the copyright of this dataset. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Socioeconomic Data and Applications Center (SEDAC) User Services</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+					<city>Palisades</city>
+					<state>New York</state>
+					<postal>10964</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>+1 845-365-8920</cntvoice>
+				<cntfax>+1 845-365-8922</cntfax>
+				<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>http://www.ciesin.columbia.edu/povmap/ds_info.html</datacred>
+		<crossref>
+			<citeinfo>
+				<origin>Center for International Earth Science Information Network (CIESIN), Columbia University</origin>
+				<pubdate>2005</pubdate>
+				<title>Poverty Mapping Project: Global Subnational Infant Mortality Rates</title>
+				<geoform>raster digital data, vector digital data, tabular digital data, map</geoform>
+				<onlink>http://www.ciesin.columbia.edu/povmap/</onlink>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Center for International Earth Science Information Network (CIESIN), Columbia University</origin>
+				<pubdate>2005</pubdate>
+				<title>Poverty Mapping Project: Global Subnational Prevalence of Child Malnutrition</title>
+				<geoform>raster digital data, vector digital data, tabular digital data, map</geoform>
+				<onlink>http://www.ciesin.columbia.edu/povmap/</onlink>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Center for International Earth Science Information Network (CIESIN), Columbia University</origin>
+				<pubdate>2005</pubdate>
+				<title>Poverty Mapping Project: Unsatisfied Basic Needs</title>
+				<geoform>vector digital data, tabular digital data</geoform>
+				<onlink>http://www.ciesin.columbia.edu/povmap/</onlink>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Center for International Earth Science Information Network (CIESIN), Columbia University</origin>
+				<pubdate>2005</pubdate>
+				<title>Poverty Mapping Project: Poverty and Food Security Case Studies</title>
+				<geoform>vector digital data, tabular digital data</geoform>
+				<onlink>http://www.ciesin.columbia.edu/povmap/</onlink>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Center for International Earth Science Information Network (CIESIN), Columbia University</origin>
+				<pubdate>2005</pubdate>
+				<title>Poverty Mapping Project: Map Collection</title>
+				<onlink>http://www.ciesin.columbia.edu/povmap/</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Changes made to the original data are noted in the Small Area Estimates datasets catalog available for download at http://www.ciesin.columbia.edu/povmap/ds_info.html</procdesc>
+			</procstep>
+			<srcinfo><srccontr>Attribute Data: National Statistical Office of the government of Malawi
+Spatial Data: Benson T with Kaphuka J, Kanyanda S, and Chinula R. (2002). Malawi: An Atlas of Social Statistics. Zomba: National Statistical Office, Government of Malawi and International Food Policy Research Institute (IFPRI), pp. 48.
+</srccontr></srcinfo></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="MWILv3">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">370</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="MWILv3"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">370</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="MWILv3">
+			<enttyp>
+				<enttypl Sync="TRUE">MWILv3</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">370</enttypc></enttyp>
+			<attr>
+				<attrlabl>Country</attrlabl>
+				<attrdef>Country name (in English)</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>ADMName</attrlabl>
+				<attrdef>Name of the administrative unit</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>ADMUnitID</attrlabl>
+				<attrdef>Numeric key of the administrative unit</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr>
+				<attrlabl>ADMParent</attrlabl>
+				<attrdef>Numeric key of the administrative unit's parent, or higher-leve (larger) administrative unit in which it falls</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr>
+			<attr>
+				<attrlabl>tMEANY</attrlabl>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>ADMLevel</attrlabl>
+				<attrdef>Code for administrative level</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>tFGT_1</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">13</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>ADMSpatID</attrlabl>
+				<attrdef>Numeric key used to link attribute data to spatial features</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>tFGT_2</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>tFGT_0lo</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>AreaSqKm</attrlabl>
+				<attrdef>Area of the surrounding spatial feature as measured in square kilometers</attrdef>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>tGE_0</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>tGE_1</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>tGE_2</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>Year</attrlabl>
+				<attrdef>The nominal year of reference of the poverty estimate, based on the input Census year</attrdef>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl>tFGT_0</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">tseMEANY</attrlabl><attalias Sync="TRUE">tseMEANY</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr>
+				<attrlabl>tpoorper</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">tseFGT_0</attrlabl><attalias Sync="TRUE">tseFGT_0</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">tseFGT_1</attrlabl><attalias Sync="TRUE">tseFGT_1</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tseFGT_2</attrlabl><attalias Sync="TRUE">tseFGT_2</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tseFGT_0lo</attrlabl><attalias Sync="TRUE">tseFGT_0lo</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tGINI</attrlabl><attalias Sync="TRUE">tGINI</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tseGINI</attrlabl><attalias Sync="TRUE">tseGINI</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tseGE_0</attrlabl><attalias Sync="TRUE">tseGE_0</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tseGE_1</attrlabl><attalias Sync="TRUE">tseGE_1</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr>
+				<attrlabl>tNUMPER</attrlabl>
+				<attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">tseGE_2</attrlabl><attalias Sync="TRUE">tseGE_2</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tATK_0_5</attrlabl><attalias Sync="TRUE">tATK_0_5</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tseATK_0_5</attrlabl><attalias Sync="TRUE">tseATK_0_5</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tATK_2</attrlabl><attalias Sync="TRUE">tATK_2</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tseATK_2</attrlabl><attalias Sync="TRUE">tseATK_2</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tNUMHH</attrlabl><attalias Sync="TRUE">tNUMHH</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tNUMHH_W</attrlabl><attalias Sync="TRUE">tNUMHH_W</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">tNUMPER_W</attrlabl><attalias Sync="TRUE">tNUMPER_W</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr></detailed>
+		<overview>
+			<eaover>For a description of additional poverty and inequality attribute fields available, for a given country and administrative level, please see the Small Area Estimate catalog available at http://www.ciesin.columbia.edu/povmap/ds_info.html</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Socioeconomic Data and Applications Center (SEDAC) User Services</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+					<city>Palisades</city>
+					<state>New York</state>
+					<postal>10040</postal>
+					<country>USA</country>
+				</cntaddr>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>CIESIN follows procedures designed to ensure that data disseminated by CIESIN are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact SEDAC User Services at +1 845 365-8920 or via email at ciesin.info@ciesin.columbia.edu. Neither CIESIN nor NASA verifies or guarantees the accuracy, reliability, or completeness of any data provided. CIESIN provides this data without warranty of any kind whatsoever, either express or implied. CIESIN shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided by CIESIN.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>SHP</formname>
+					<filedec>unzip</filedec>
+					<transize>0.779</transize>
+					<dssize Sync="TRUE">4.781</dssize></digtinfo>
+			</digform>
+			<ordering>The data are available from the Socioeconomic Data and Applications Center (SEDAC) in comma separated values (CSV) and ESRI Shapefile (SHP) formats via direct download at http://www.ciesin.columbia.edu/povmap/ds_nat_all.html.</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060526</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Center for International Earth Science Information Network (CIESIN) Metadata Administration</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>CIESIN, Columbia University, P.O. Box 1000, 61 Route 9W</address>
+					<city>Palisades</city>
+					<state>NY</state>
+					<postal>10040</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>+1 845-365-8988</cntvoice>
+				<cntfax>+1 845-365-8922</cntfax>
+				<cntemail>metadata@ciesin.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20130922</CreaDate><CreaTime>09553600</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20060526</SyncDate><SyncTime>13502200</SyncTime><ModDate>20060526</ModDate><ModTime>13504400</ModTime><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\Client\C$\Users\Richard Hinton\Dropbox\2104Development\Homework Labs\Homework02\Malawi\Basedata\MWILv3</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="\\Client\C$\Users\Richard Hinton\Dropbox\2104Development\Homework Labs\Homework02\Malawi\National_Poverty_Data_1379610422269\MWILv3" dest="\\Client\C$\Users\Richard Hinton\Dropbox\2104Development\Homework Labs\Homework02\Malawi\Basedata\MWILv3" date="20130922" time="09553600"></copy></copyHistory></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">MWILv3</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">32.67395</westBL><eastBL Sync="TRUE">35.91682</eastBL><northBL Sync="TRUE">-9.36754</northBL><southBL Sync="TRUE">-17.125</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">32.67395</westBL><eastBL Sync="TRUE">35.91682</eastBL><northBL Sync="TRUE">-9.36754</northBL><southBL Sync="TRUE">-17.125</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\Winserver0\povmap\National\SAE\~ProdData\MWILv3.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">4.781</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="MWILv3"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">370</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20060526</mdDateSt></metadata>

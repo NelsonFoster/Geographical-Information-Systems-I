@@ -1,0 +1,1 @@
+http://www.masdap.mw/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aeas_bnd&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature
